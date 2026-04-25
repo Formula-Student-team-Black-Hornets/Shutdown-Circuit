@@ -2577,6 +2577,16 @@
 		)
 		(uuid "91b7ea39-14a0-4293-a946-072610820ecd")
 	)
+	(text "Mounting holes"
+		(exclude_from_sim no)
+		(at 173.736 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "95c34704-58c6-4a70-8039-768b23a03bd8")
+	)
 	(text "Latch logic"
 		(exclude_from_sim no)
 		(at 123.19 80.01 0)
@@ -3161,6 +3171,16 @@
 			(type default)
 		)
 		(uuid "3d47570d-556c-462e-a094-392bad7100d6")
+	)
+	(polyline
+		(pts
+			(xy 165.735 121.92) (xy 182.245 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fb16685-206e-46f1-86e8-202f81cc7217")
 	)
 	(polyline
 		(pts
@@ -4211,6 +4231,16 @@
 			(type default)
 		)
 		(uuid "f17e844b-9637-44fd-b445-6a615750208e")
+	)
+	(polyline
+		(pts
+			(xy 182.245 121.92) (xy 182.245 118.745)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5aefe7b-f232-4382-9daf-0cfe6b687548")
 	)
 	(wire
 		(pts
