@@ -7,6 +7,11 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Shutdown Circuit Main Board")
+		(date "2026-05-06")
+		(company "Black Hornets Novi Sad - Ivan Berenic")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -7855,6 +7860,18 @@
 				(thickness 0.15)
 			)
 			(justify left)
+		)
+	)
+	(gr_text "Shutdown Circuit\nMain Board\n"
+		(at 137.65 84.65 90)
+		(layer "F.SilkS")
+		(uuid "bc33ad1b-4789-442b-8d8f-37cdeedc844c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
 		)
 	)
 	(gr_text "Formula Student \n{dblquote}Black Hornets{dblquote}\nUniversity of Novi Sad\n2026.\n"

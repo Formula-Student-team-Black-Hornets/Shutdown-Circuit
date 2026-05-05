@@ -5,8 +5,8 @@
 	(uuid "26a72141-a87f-4b07-be23-346a851633d7")
 	(paper "A4")
 	(title_block
-		(title "Shutdown Circuit Board")
-		(date "2026-04-14")
+		(title "Shutdown Circuit Main Board")
+		(date "2026-05-06")
 		(company "Black Hornets Novi Sad - Ivan Berenic")
 	)
 	(lib_symbols
